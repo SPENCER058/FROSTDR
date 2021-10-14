@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FROSTDR
+- 👋 Hi, I’m @SPENCER
 - 👀 I’m interested in Programming, Design, Music, Videography
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
